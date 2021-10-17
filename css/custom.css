@@ -1,17 +1,17 @@
 
 @font-face {
-    font-family:'Zephyr的窝';
-    src:url('https://cdn.jsdelivr.net/gh/blog/source/100font.com/xingkai.ttf'); /* 修改成你的字体 */
+    font-family:'yifu';
+    src:url('https://cdn.jsdelivr.net/gh/blog/source/font/xingkai.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
 h1#site-title {
-    font-family:Zephyr的窝!important
+    font-family:yifu!important
 }
 span#subtitle {
-    font-family:Zephyr的窝!important
+    font-family:yifu!important
 }
 a#site-name {
-    font-family:Zephyr的窝!important
+    font-family:yifu!important
 }
 
 
