@@ -1,7 +1,7 @@
 
 @font-face {
     font-family:'yifu';
-    src:url('../blog/source/font/yifu.ttf')format('truetype'); /* 修改成你的字体 */
+    src:url('/blog/source/font/yifu.ttf')format('truetype'); /* 修改成你的字体 */
     font-display:swap
 }
 h1#site-title {
