@@ -1,7 +1,6 @@
-
 @font-face {
     font-family:'yifu';
-    src:url('https://cdn.jsdelivr.net/gh/font/yifu.ttf'); /* 修改成你的字体 */
+    src:url('/font/yifu.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
 h1#site-title {
