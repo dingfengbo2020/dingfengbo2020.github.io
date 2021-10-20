@@ -1294,7 +1294,7 @@ canvas:not(#ribbon-canvas),
   }
 }
 :root {
-  --global-font-size: 15px;
+  --global-font-size: 18px;
   --global-bg: #fff;
   --font-color: #4c4948;
   --hr-border: #a4d8fa;
@@ -1357,7 +1357,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: https://i.loli.net/2021/10/17/3SQy28GkZoKUVcA.png;
+  background: url(https://cdn.jsdelivr.net/gh/x-aowei2021/Imghosting/ITRHX-PIC/Y64CG7Y8EAF9A7GL.png);
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -3261,38 +3261,44 @@ li.categoryBar-list-item:nth-child(1) {
   background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover1.webp');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: #abcdef;
+  background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover2.webp');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: rgba(45,67,89,0.7);
+  background: #abcdef;
 }
 li.categoryBar-list-item:nth-child(4) {
+  background: rgba(45,67,89,0.7);
+}
+li.categoryBar-list-item:nth-child(5) {
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
   background: -moz-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
   background: -o-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
   background: -ms-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
   background: linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
 }
-li.categoryBar-list-item:nth-child(5) {
+li.categoryBar-list-item:nth-child(6) {
   background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover5.webp');
 }
-li.categoryBar-list-item:nth-child(6) {
+li.categoryBar-list-item:nth-child(7) {
   background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover6.webp');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
-  content: '阅读' !important;
+  content: '浮生万千，幸会矣' !important;
 }
 li.categoryBar-list-item:nth-child(2)>span::after {
-  content: '生活碎碎念' !important;
+  content: '醉后不知天在水' !important;
 }
 li.categoryBar-list-item:nth-child(3)>span::after {
-  content: '记录' !important;
+  content: '满船清梦压星河' !important;
 }
 li.categoryBar-list-item:nth-child(4)>span::after {
-  content: '学习' !important;
+  content: '江海寄余生' !important;
 }
 li.categoryBar-list-item:nth-child(5)>span::after {
-  content: '个人日记' !important;
+  content: '笑时犹带岭梅香' !important;
+}
+li.categoryBar-list-item:nth-child(6)>span::after {
+  content: '韶华不为少年留' !important;
 }
 li.categoryBar-list-item {
   width: 32.3% !important;

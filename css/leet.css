@@ -32,30 +32,25 @@ background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
 /* 文章页面正文背景 */
 div#post{
   background: rgba(255, 255, 255, 0.9);
-  background-image:url(/images/images/MSHJK1QU0P65521UG9_O2H.png);
+
 }
 /* 分页页面 */
 div#page{
   background: rgba(255, 255, 255, 0.9);
-  background-image:url(/images/images/MSHJK1QU0P65521UG9_O2H.png);
+
 }
 /* 归档页面 */
 div#archive{
   background: rgba(255, 255, 255, 0.9);
-  background-image:url(/images/images/MSHJK1QU0P65521UG9_O2H.png);
+
 }
 
 /* 标签页面 */
 div#tag{
   background: rgba(255, 255, 255, 0.9);
-  background-image:url(/images/images/MSHJK1QU0P65521UG9_O2H.png);
+
 }
 /* 分类页面 */
 div#category{
-  background: rgba(255, 255, 255, 0.9);
-  background-repeat: no-repeat;
-  background-image:url(/images/images/MSHJK1QU0P65521UG9_O2H.png);
-  background-attachment:fixed;
-  background-position:50% 50%;
-  background-size: 100% 100%;  
+  background: rgba(255, 255, 255, 0.9);  
 }
