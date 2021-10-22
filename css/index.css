@@ -1294,7 +1294,7 @@ canvas:not(#ribbon-canvas),
   }
 }
 :root {
-  --global-font-size: 18px;
+  --global-font-size: 17px;
   --global-bg: #fff;
   --font-color: #4c4948;
   --hr-border: #a4d8fa;
@@ -3505,7 +3505,7 @@ li.categoryBar-list-item {
   }
 }
 #page-header #site-subtitle {
-  color: #d66cf5;
+  color: #e6e6fa;
   font-size: 1.5em;
 }
 @media screen and (min-width: 768px) {
