@@ -1,7 +1,16 @@
 @font-face {
     font-family:'yifu';
-    src:url('https://x-aowei2021.github.io/font/yifu.ttf'); /* 修改成你的字体 */
+    src:url('/font/yifu.ttf'); /* 修改成你的字体 */
     font-display:swap
+}
+h1#site-title {
+    font-family:yifu!important
+}
+span#subtitle {
+    font-family:yifu!important
+}
+a#site-name {
+    font-family:yifu!important
 }
 
 
@@ -18,6 +27,15 @@
 }*/
 @font-face {
     font-family:'aifu';
-    src:url('https://x-aowei2021.github.io/font/aifu.ttf'); /* 修改成你的字体 */
+    src:url('/font/aifu.ttf'); /* 修改成你的字体 */
     font-display:swap
+}
+h1#site-title {
+    font-family:aifu!important
+}
+span#subtitle {
+    font-family:aifu!important
+}
+a#site-name {
+    font-family:aifu!important
 }
