@@ -18,6 +18,6 @@
 }*/
 @font-face {
     font-family:'aifu';
-    src:url('/font/aifu.ttf'); /* 修改成你的字体 */
+    src:url('https://x-aowei2021.github.io/font/aifu.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
