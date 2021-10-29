@@ -6,12 +6,7 @@
 h1#site-title {
     font-family:yifu!important
 }
-span#subtitle {
-    font-family:yifu!important
-}
-a#site-name {
-    font-family:yifu!important
-}
+
 
 
 #recent-posts>.recent-post-item,.layout_page>div:first-child:not(.recent-posts),.layout_post>#page,.layout_post>#post,.read-mode .layout_post>#post {
@@ -30,12 +25,9 @@ a#site-name {
     src:url('/font/aifu.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
-h1#site-title {
-    font-family:aifu!important
-}
 span#subtitle {
-    font-family:aifu!important
+    font-family:yifu!important
 }
 a#site-name {
-    font-family:aifu!important
+    font-family:yifu!important
 }
