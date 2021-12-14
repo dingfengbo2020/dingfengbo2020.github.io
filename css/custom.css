@@ -32,3 +32,21 @@ span#subtitle {
 a#site-name {
     font-family:aifu!important
 }
+
+@import "//at.alicdn.com/t/font_2872860_693zkycwakl.css";
+.iconfont {
+font-family: "iconfont" !important;
+font-size: 6em;
+/* 可以定义图标大小 */
+<i class="iconfont icon-xiangji"></i>
+<i class="iconfont icon-fengzheng"></i>
+<i class="iconfont icon-tiger"></i>
+<i class="iconfont icon-rabbit"></i>
+<i class="iconfont icon-dragon"></i>
+<i class="iconfont icon-snake"></i>
+<i class="iconfont icon-horse"></i>
+<i class="iconfont icon-goat"></i>
+<i class="iconfont icon-monkey"></i>
+<i class="iconfont icon-rooster"></i>
+<i class="iconfont icon-dog"></i>
+<i class="iconfont icon-boar"></i>
